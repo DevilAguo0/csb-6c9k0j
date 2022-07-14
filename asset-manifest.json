@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devilaguo0.github.io/csb-6c9k0j/static/css/main.09eb07a5.chunk.css",
+    "main.js": "https://devilaguo0.github.io/csb-6c9k0j/static/js/main.2077605e.chunk.js",
+    "main.js.map": "https://devilaguo0.github.io/csb-6c9k0j/static/js/main.2077605e.chunk.js.map",
+    "runtime-main.js": "https://devilaguo0.github.io/csb-6c9k0j/static/js/runtime-main.a6f959fd.js",
+    "runtime-main.js.map": "https://devilaguo0.github.io/csb-6c9k0j/static/js/runtime-main.a6f959fd.js.map",
+    "static/js/2.f18128f1.chunk.js": "https://devilaguo0.github.io/csb-6c9k0j/static/js/2.f18128f1.chunk.js",
+    "static/js/2.f18128f1.chunk.js.map": "https://devilaguo0.github.io/csb-6c9k0j/static/js/2.f18128f1.chunk.js.map",
+    "index.html": "https://devilaguo0.github.io/csb-6c9k0j/index.html",
+    "static/css/main.09eb07a5.chunk.css.map": "https://devilaguo0.github.io/csb-6c9k0j/static/css/main.09eb07a5.chunk.css.map",
+    "static/js/2.f18128f1.chunk.js.LICENSE.txt": "https://devilaguo0.github.io/csb-6c9k0j/static/js/2.f18128f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6f959fd.js",
+    "static/js/2.f18128f1.chunk.js",
+    "static/css/main.09eb07a5.chunk.css",
+    "static/js/main.2077605e.chunk.js"
+  ]
+}
